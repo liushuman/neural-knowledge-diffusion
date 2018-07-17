@@ -51,7 +51,7 @@ We appreciate your citation if you find our dataset is beneficial.
 @inproceedings{liu2018NKD,
   title={Knowledge Diffusion for Neural Dialogue Generation},
   author={Liu, Shuman and Chen, Hongshen and Ren, Zhaochun and Feng, Yang and Liu, Qun and Yin, Dawei},
-  booktitle={Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics(Volume 1: Long Papers)},
+  booktitle={Proceedings of the 56 th Annual Meeting of the Association for Computational Linguistics(Volume 1: Long Papers)},
   pages={1489--1498},
   year={2018},
   publisher = {Association for Computational Linguistics},
