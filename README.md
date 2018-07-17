@@ -1,6 +1,6 @@
 # Neural-Knowledge-Diffusion
 
-A database of the *Knowledge Diffusion for Neural Dialogue Generation*.
+A database of the [Knowledge Diffusion for Neural Dialogue Generation](http://aclweb.org/anthology/P18-1138).
 
 The files are in json and the encoding format is UTF8.
 
@@ -47,6 +47,7 @@ Conversations grounded on knowledge base
 # Citation
 We appreciate your citation if you find our dataset is beneficial.
 
+```javascript
 @inproceedings{liu2018NKD,
   title={Knowledge Diffusion for Neural Dialogue Generation},
   author={Liu, Shuman and Chen, Hongshen and Ren, Zhaochun and Feng, Yang and Liu, Qun and Yin, Dawei},
@@ -55,3 +56,4 @@ We appreciate your citation if you find our dataset is beneficial.
   year={2018},
   publisher = {Association for Computational Linguistics},
 }
+```
