@@ -38,11 +38,11 @@ Conversations grounded on knowledge base
 
 `--raw_sentence` : raw utterance
 
-`--movie` : a list of movie and corresponding movieID appear in raw_sentence
+`--movie` : a list of movie and corresponding movieID appear in raw_sentence for similar knowledge based conversations
 
-`--celebrity` : a list of celebrity and corresponding celebrityID appear in raw_sentence
+`--celebrity` : a list of celebrity and corresponding celebrityID appear in raw_sentence for similar knowledge based conversations
 
-`--triple` : a list of facts(subjectID, relation, objectID) for factoid conversations
+`--triple` : a list of facts(subjectID, relation, objectID) for revelant knowledge based conversations
 
 # Citation
 We appreciate your citation if you find our dataset is beneficial.
